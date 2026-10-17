@@ -1,0 +1,45 @@
+(LIN CV_B) Příjmení:....................... Třída:....... Datum:...........
+
+V terminálu serveru TuX si naklonujte podkladové soubory:
+  
+  $ git clone https://github.com/edumach/lincvb
+
+Přesuňte se do adresáře lincvb a splňte následující úkoly:
+
+
+(1) Napište příkaz, který do souboru ini.txt zapíše názvy všech souborů
+    s příponou ini z adresáře data.
+
+    $ ______________________________________________________________
+
+
+(2) V souboru autobazar.csv je nabídka ojetých automobilů. Sestavte příkaz, 
+    který na stdout vypíše pouze ta vozidla, která pocházejí z České republiky:  
+
+    $ ______________________________________________________________
+
+
+(3) Napište příkaz, který z adresáře soubory zkopíruje všechny s příponou
+    .bat do nového adresáře skripty:
+
+    $ ______________________________________________________________
+
+
+(4) V souboru loterie.txt se nachází seznam s historií tažených čísel v jedné 
+    loterii. Napište příkaz, který do souboru cisla.txt zapíše počet losování:
+
+    $ ______________________________________________________________
+
+    Tento počet zapište sem: ______________
+
+
+(5) V souboru loterie.txt se nachází seznam s historií tažených čísel 
+    v jedné loterii. Potřebujete zjistit, kolikrát byste vyhráli při vsazení 
+    čísel 12, 40 a 42. Napište příkaz, který do souboru cisla.txt přidá na 
+    jeho konec počet výher (bude se hodit příkaz grep a vícero využití roury):
+
+    $ ______________________________________________________________
+
+    Tento počet zapište sem: ______________
+
+
